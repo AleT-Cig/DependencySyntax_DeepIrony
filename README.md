@@ -1,4 +1,9 @@
 # **Multilingual Irony Detection with Dependency Syntax and Neural Models**
-Code repository for COLING 2020 submission.
 
-Further details will be added upon acceptance and when the anonymity period will be over.
+@inproceedings{cignarella2020multilingual,
+  title={Multilingual Irony Detection with Dependency Syntax and Neural Models},
+  author={Cignarella, Alessandra Teresa and Basile, Valerio and Sanguinetti, Manuela and Bosco, Cristina and Rosso, Paolo and Benamara, Farah},
+  booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
+  pages={1346--1358},
+  year={2020}
+}
